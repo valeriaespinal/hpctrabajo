@@ -1,0 +1,752 @@
+.:
+total 16
+drwxr-xr-x 1 mpirun mpirun   75 May 12 02:09 .
+drwxr-xr-x 1 root   root     20 May 10 23:54 ..
+-rw------- 1 mpirun mpirun 2687 May 12 02:03 .bash_history
+-rw-r--r-- 1 mpirun mpirun  220 May 10 23:54 .bash_logout
+-rw-r--r-- 1 mpirun mpirun 3771 May 10 23:54 .bashrc
+drwxr-xr-x 1 mpirun mpirun   34 May 12 00:47 .cache
+drwx------ 1 mpirun mpirun   19 May 12 00:47 .local
+drwxr-xr-x 1 mpirun mpirun   29 May 10 23:54 .openmpi
+-rw-r--r-- 1 mpirun mpirun  807 May 10 23:54 .profile
+drwxr-xr-x 1 mpirun mpirun   75 May 10 23:54 .ssh
+-rw-rw-r-- 1 mpirun mpirun    0 May 12 02:09 archivo1.txt
+
+./.cache:
+total 0
+drwxr-xr-x 1 mpirun mpirun 34 May 12 00:47 .
+drwxr-xr-x 1 mpirun mpirun 75 May 12 02:09 ..
+-rw-r--r-- 1 mpirun mpirun  0 May 12 00:47 motd.legal-displayed
+drwxr-xr-x 5 mpirun mpirun 49 May 10 23:54 pip
+
+./.cache/pip:
+total 0
+drwxr-xr-x 5 mpirun mpirun 49 May 10 23:54 .
+drwxr-xr-x 1 mpirun mpirun 34 May 12 00:47 ..
+drwxr-xr-x 9 mpirun mpirun 69 May 10 23:54 http
+drwxr-xr-x 2 mpirun mpirun 70 May 10 23:54 selfcheck
+drwxr-xr-x 3 mpirun mpirun 16 May 10 23:54 wheels
+
+./.cache/pip/http:
+total 0
+drwxr-xr-x 9 mpirun mpirun 69 May 10 23:54 .
+drwxr-xr-x 5 mpirun mpirun 49 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 2
+drwxr-xr-x 4 mpirun mpirun 24 May 10 23:54 4
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 8
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 9
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 a
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 e
+
+./.cache/pip/http/0:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 9 mpirun mpirun 69 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 4
+
+./.cache/pip/http/0/4:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 1
+
+./.cache/pip/http/0/4/1:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 8
+
+./.cache/pip/http/0/4/1/8:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 2 mpirun mpirun 70 May 10 23:54 c
+
+./.cache/pip/http/0/4/1/8/c:
+total 148
+drwxr-xr-x 2 mpirun mpirun     70 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun     15 May 10 23:54 ..
+-rw------- 1 mpirun mpirun 151013 May 10 23:54 0418c83b80f7f7bfaec2738bfbbee53d2c1562196c0781702f6eddc8
+
+./.cache/pip/http/2:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 9 mpirun mpirun 69 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 f
+
+./.cache/pip/http/2/f:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 e
+
+./.cache/pip/http/2/f/e:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 f
+
+./.cache/pip/http/2/f/e/f:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 2 mpirun mpirun 70 May 10 23:54 5
+
+./.cache/pip/http/2/f/e/f/5:
+total 4
+drwxr-xr-x 2 mpirun mpirun   70 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun   15 May 10 23:54 ..
+-rw------- 1 mpirun mpirun 2547 May 10 23:54 2fef50e0373914ce8faf2e0a5008d919a35e9a6905e178838f68b860
+
+./.cache/pip/http/4:
+total 0
+drwxr-xr-x 4 mpirun mpirun 24 May 10 23:54 .
+drwxr-xr-x 9 mpirun mpirun 69 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 5
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 d
+
+./.cache/pip/http/4/5:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 4 mpirun mpirun 24 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 e
+
+./.cache/pip/http/4/5/e:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 d
+
+./.cache/pip/http/4/5/e/d:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 2 mpirun mpirun 70 May 10 23:54 4
+
+./.cache/pip/http/4/5/e/d/4:
+total 2312
+drwxr-xr-x 2 mpirun mpirun      70 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun      15 May 10 23:54 ..
+-rw------- 1 mpirun mpirun 2366565 May 10 23:54 45ed479560ee8922a1704911d9649d3956bc96c8098d57283b423184
+
+./.cache/pip/http/4/d:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 4 mpirun mpirun 24 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 2
+
+./.cache/pip/http/4/d/2:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 7
+
+./.cache/pip/http/4/d/2/7:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 2 mpirun mpirun 70 May 10 23:54 2
+
+./.cache/pip/http/4/d/2/7/2:
+total 20
+drwxr-xr-x 2 mpirun mpirun    70 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun    15 May 10 23:54 ..
+-rw------- 1 mpirun mpirun 17604 May 10 23:54 4d272e6453941ce8b0a37a02cdb1685fc612c33441fa74691fb40656
+
+./.cache/pip/http/8:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 9 mpirun mpirun 69 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 4
+
+./.cache/pip/http/8/4:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 1
+
+./.cache/pip/http/8/4/1:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 3
+
+./.cache/pip/http/8/4/1/3:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 2 mpirun mpirun 70 May 10 23:54 2
+
+./.cache/pip/http/8/4/1/3/2:
+total 572
+drwxr-xr-x 2 mpirun mpirun     70 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun     15 May 10 23:54 ..
+-rw------- 1 mpirun mpirun 584674 May 10 23:54 84132eed49c56076ca56758affa5419073d2fb7e31c3c2d4840079e9
+
+./.cache/pip/http/9:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 9 mpirun mpirun 69 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 8
+
+./.cache/pip/http/9/8:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 6
+
+./.cache/pip/http/9/8/6:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 5
+
+./.cache/pip/http/9/8/6/5:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 2 mpirun mpirun 70 May 10 23:54 3
+
+./.cache/pip/http/9/8/6/5/3:
+total 24
+drwxr-xr-x 2 mpirun mpirun    70 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun    15 May 10 23:54 ..
+-rw------- 1 mpirun mpirun 21032 May 10 23:54 98653a280a2805656b5cf21c326f493463faf932ff154270699fe65a
+
+./.cache/pip/http/a:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 9 mpirun mpirun 69 May 10 23:54 ..
+drwxr-xr-x 4 mpirun mpirun 24 May 10 23:54 1
+
+./.cache/pip/http/a/1:
+total 0
+drwxr-xr-x 4 mpirun mpirun 24 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 9
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 a
+
+./.cache/pip/http/a/1/9:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 4 mpirun mpirun 24 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 5
+
+./.cache/pip/http/a/1/9/5:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 2 mpirun mpirun 70 May 10 23:54 3
+
+./.cache/pip/http/a/1/9/5/3:
+total 32
+drwxr-xr-x 2 mpirun mpirun    70 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun    15 May 10 23:54 ..
+-rw------- 1 mpirun mpirun 29710 May 10 23:54 a19537d3cf37c122db841d6fe4cd322bc10d1a558bb00d146b85cb9a
+
+./.cache/pip/http/a/1/a:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 4 mpirun mpirun 24 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 e
+
+./.cache/pip/http/a/1/a/e:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 2 mpirun mpirun 70 May 10 23:54 3
+
+./.cache/pip/http/a/1/a/e/3:
+total 80
+drwxr-xr-x 2 mpirun mpirun    70 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun    15 May 10 23:54 ..
+-rw------- 1 mpirun mpirun 79945 May 10 23:54 a1ae3d59ac14e52c207cd304c9da8a9524ce90e9ee369b1005ff9976
+
+./.cache/pip/http/e:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 9 mpirun mpirun 69 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 9
+
+./.cache/pip/http/e/9:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 0
+
+./.cache/pip/http/e/9/0:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 9
+
+./.cache/pip/http/e/9/0/9:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 15 May 10 23:54 ..
+drwxr-xr-x 2 mpirun mpirun 70 May 10 23:54 8
+
+./.cache/pip/http/e/9/0/9/8:
+total 36
+drwxr-xr-x 2 mpirun mpirun    70 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun    15 May 10 23:54 ..
+-rw------- 1 mpirun mpirun 36478 May 10 23:54 e909845026a6059abd99600e070e720b0e8069818f409a5176263a17
+
+./.cache/pip/selfcheck:
+total 4
+drwxr-xr-x 2 mpirun mpirun 70 May 10 23:54 .
+drwxr-xr-x 5 mpirun mpirun 49 May 10 23:54 ..
+-rw------- 1 mpirun mpirun 74 May 10 23:54 241e69162522ccf5846a2f42ebc24b17464915a155679666b89a9f31
+
+./.cache/pip/wheels:
+total 0
+drwxr-xr-x 3 mpirun mpirun 16 May 10 23:54 .
+drwxr-xr-x 5 mpirun mpirun 49 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 16 May 10 23:54 87
+
+./.cache/pip/wheels/87:
+total 0
+drwxr-xr-x 3 mpirun mpirun 16 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 16 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 16 May 10 23:54 af
+
+./.cache/pip/wheels/87/af:
+total 0
+drwxr-xr-x 3 mpirun mpirun 16 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 16 May 10 23:54 ..
+drwxr-xr-x 3 mpirun mpirun 64 May 10 23:54 47
+
+./.cache/pip/wheels/87/af/47:
+total 0
+drwxr-xr-x 3 mpirun mpirun 64 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun 16 May 10 23:54 ..
+drwxr-xr-x 2 mpirun mpirun 55 May 10 23:54 73598adc8ea8c457189026437a326ce7ef50b74ecf15786215
+
+./.cache/pip/wheels/87/af/47/73598adc8ea8c457189026437a326ce7ef50b74ecf15786215:
+total 892
+drwxr-xr-x 2 mpirun mpirun     55 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun     64 May 10 23:54 ..
+-rw-r--r-- 1 mpirun mpirun 909325 May 10 23:54 mpi4py-3.1.6-cp27-cp27mu-linux_x86_64.whl
+
+./.local:
+total 0
+drwx------ 1 mpirun mpirun 19 May 12 00:47 .
+drwxr-xr-x 1 mpirun mpirun 75 May 12 02:09 ..
+drwxr-xr-x 2 mpirun mpirun 50 May 10 23:54 bin
+drwx------ 3 mpirun mpirun 23 May 10 23:54 lib
+drwx------ 3 mpirun mpirun 18 May 12 00:47 share
+
+./.local/bin:
+total 8
+drwxr-xr-x 2 mpirun mpirun  50 May 10 23:54 .
+drwx------ 1 mpirun mpirun  19 May 12 00:47 ..
+-rwxr-xr-x 1 mpirun mpirun 229 May 10 23:54 easy_install
+-rwxr-xr-x 1 mpirun mpirun 229 May 10 23:54 easy_install-2.7
+
+./.local/lib:
+total 0
+drwx------ 3 mpirun mpirun 23 May 10 23:54 .
+drwx------ 1 mpirun mpirun 19 May 12 00:47 ..
+drwx------ 3 mpirun mpirun 27 May 10 23:54 python2.7
+
+./.local/lib/python2.7:
+total 0
+drwx------ 3 mpirun mpirun  27 May 10 23:54 .
+drwx------ 3 mpirun mpirun  23 May 10 23:54 ..
+drwx------ 7 mpirun mpirun 171 May 10 23:54 site-packages
+
+./.local/lib/python2.7/site-packages:
+total 16
+drwx------ 7 mpirun mpirun  171 May 10 23:54 .
+drwx------ 3 mpirun mpirun   27 May 10 23:54 ..
+-rw-r--r-- 1 mpirun mpirun  126 May 10 23:54 easy_install.py
+-rw-r--r-- 1 mpirun mpirun  330 May 10 23:54 easy_install.pyc
+drwxr-xr-x 6 mpirun mpirun 4096 May 10 23:54 mpi4py
+drwxr-xr-x 2 mpirun mpirun  123 May 10 23:54 mpi4py-3.1.6.dist-info
+drwxr-xr-x 4 mpirun mpirun  117 May 10 23:54 pkg_resources
+drwxr-xr-x 5 mpirun mpirun 4096 May 10 23:54 setuptools
+drwxr-xr-x 2 mpirun mpirun  187 May 10 23:54 setuptools-44.1.1.dist-info
+
+./.local/lib/python2.7/site-packages/mpi4py:
+total 3668
+drwxr-xr-x 6 mpirun mpirun    4096 May 10 23:54 .
+drwx------ 7 mpirun mpirun     171 May 10 23:54 ..
+-rw-r--r-- 1 mpirun mpirun    3964 May 10 23:54 MPI.pxd
+-rw-r--r-- 1 mpirun mpirun   51995 May 10 23:54 MPI.pyi
+-rwxr-xr-x 1 mpirun mpirun 3512120 May 10 23:54 MPI.so
+-rw-r--r-- 1 mpirun mpirun      56 May 10 23:54 __init__.pxd
+-rw-r--r-- 1 mpirun mpirun    5497 May 10 23:54 __init__.py
+-rw-r--r-- 1 mpirun mpirun    6282 May 10 23:54 __init__.pyc
+-rw-r--r-- 1 mpirun mpirun     793 May 10 23:54 __init__.pyi
+-rw-r--r-- 1 mpirun mpirun     165 May 10 23:54 __main__.py
+-rw-r--r-- 1 mpirun mpirun     319 May 10 23:54 __main__.pyc
+-rw-r--r-- 1 mpirun mpirun      22 May 10 23:54 __main__.pyi
+-rw-r--r-- 1 mpirun mpirun    6310 May 10 23:54 bench.py
+-rw-r--r-- 1 mpirun mpirun    5547 May 10 23:54 bench.pyc
+-rw-r--r-- 1 mpirun mpirun     351 May 10 23:54 bench.pyi
+-rw-r--r-- 1 mpirun mpirun     774 May 10 23:54 dl.pyi
+-rwxr-xr-x 1 mpirun mpirun   29400 May 10 23:54 dl.so
+drwxr-xr-x 2 mpirun mpirun    4096 May 10 23:54 futures
+drwxr-xr-x 3 mpirun mpirun      20 May 10 23:54 include
+drwxr-xr-x 2 mpirun mpirun      79 May 10 23:54 lib-pmpi
+-rw-r--r-- 1 mpirun mpirun   44966 May 10 23:54 libmpi.pxd
+-rw-r--r-- 1 mpirun mpirun     132 May 10 23:54 mpi.cfg
+-rw-r--r-- 1 mpirun mpirun      27 May 10 23:54 py.typed
+-rw-r--r-- 1 mpirun mpirun    9117 May 10 23:54 run.py
+-rw-r--r-- 1 mpirun mpirun    9696 May 10 23:54 run.pyc
+-rw-r--r-- 1 mpirun mpirun     205 May 10 23:54 run.pyi
+drwxr-xr-x 2 mpirun mpirun     162 May 10 23:54 util
+
+./.local/lib/python2.7/site-packages/mpi4py/futures:
+total 240
+drwxr-xr-x 2 mpirun mpirun  4096 May 10 23:54 .
+drwxr-xr-x 6 mpirun mpirun  4096 May 10 23:54 ..
+-rw-r--r-- 1 mpirun mpirun   520 May 10 23:54 __init__.py
+-rw-r--r-- 1 mpirun mpirun   786 May 10 23:54 __init__.pyc
+-rw-r--r-- 1 mpirun mpirun   613 May 10 23:54 __init__.pyi
+-rw-r--r-- 1 mpirun mpirun  2267 May 10 23:54 __main__.py
+-rw-r--r-- 1 mpirun mpirun  2978 May 10 23:54 __main__.pyc
+-rw-r--r-- 1 mpirun mpirun    24 May 10 23:54 __main__.pyi
+-rw-r--r-- 1 mpirun mpirun 22800 May 10 23:54 _base.py
+-rw-r--r-- 1 mpirun mpirun 26365 May 10 23:54 _base.pyc
+-rw-r--r-- 1 mpirun mpirun  1291 May 10 23:54 _core.py
+-rw-r--r-- 1 mpirun mpirun  1338 May 10 23:54 _core.pyc
+-rw-r--r-- 1 mpirun mpirun   683 May 10 23:54 _core.pyi
+-rw-r--r-- 1 mpirun mpirun 29192 May 10 23:54 _lib.py
+-rw-r--r-- 1 mpirun mpirun 36697 May 10 23:54 _lib.pyc
+-rw-r--r-- 1 mpirun mpirun  5118 May 10 23:54 _lib.pyi
+-rw-r--r-- 1 mpirun mpirun  4901 May 10 23:54 aplus.py
+-rw-r--r-- 1 mpirun mpirun  5574 May 10 23:54 aplus.pyc
+-rw-r--r-- 1 mpirun mpirun   865 May 10 23:54 aplus.pyi
+-rw-r--r-- 1 mpirun mpirun 13355 May 10 23:54 pool.py
+-rw-r--r-- 1 mpirun mpirun 12424 May 10 23:54 pool.pyc
+-rw-r--r-- 1 mpirun mpirun  2118 May 10 23:54 pool.pyi
+-rw-r--r-- 1 mpirun mpirun   281 May 10 23:54 server.py
+-rw-r--r-- 1 mpirun mpirun   543 May 10 23:54 server.pyc
+-rw-r--r-- 1 mpirun mpirun    24 May 10 23:54 server.pyi
+
+./.local/lib/python2.7/site-packages/mpi4py/include:
+total 4
+drwxr-xr-x 3 mpirun mpirun   20 May 10 23:54 .
+drwxr-xr-x 6 mpirun mpirun 4096 May 10 23:54 ..
+drwxr-xr-x 2 mpirun mpirun   97 May 10 23:54 mpi4py
+
+./.local/lib/python2.7/site-packages/mpi4py/include/mpi4py:
+total 44
+drwxr-xr-x 2 mpirun mpirun    97 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun    20 May 10 23:54 ..
+-rw-r--r-- 1 mpirun mpirun    84 May 10 23:54 mpi.pxi
+-rw-r--r-- 1 mpirun mpirun  9043 May 10 23:54 mpi4py.MPI.h
+-rw-r--r-- 1 mpirun mpirun 20224 May 10 23:54 mpi4py.MPI_api.h
+-rw-r--r-- 1 mpirun mpirun   562 May 10 23:54 mpi4py.h
+-rw-r--r-- 1 mpirun mpirun  2282 May 10 23:54 mpi4py.i
+
+./.local/lib/python2.7/site-packages/mpi4py/lib-pmpi:
+total 52
+drwxr-xr-x 2 mpirun mpirun   79 May 10 23:54 .
+drwxr-xr-x 6 mpirun mpirun 4096 May 10 23:54 ..
+-rwxr-xr-x 1 mpirun mpirun 8464 May 10 23:54 libmpe.so
+-rwxr-xr-x 1 mpirun mpirun 8472 May 10 23:54 libvt-hyb.so
+-rwxr-xr-x 1 mpirun mpirun 8472 May 10 23:54 libvt-mpi.so
+-rwxr-xr-x 1 mpirun mpirun 8456 May 10 23:54 libvt.so
+
+./.local/lib/python2.7/site-packages/mpi4py/util:
+total 100
+drwxr-xr-x 2 mpirun mpirun   162 May 10 23:54 .
+drwxr-xr-x 6 mpirun mpirun  4096 May 10 23:54 ..
+-rw-r--r-- 1 mpirun mpirun    87 May 10 23:54 __init__.py
+-rw-r--r-- 1 mpirun mpirun   205 May 10 23:54 __init__.pyc
+-rw-r--r-- 1 mpirun mpirun     8 May 10 23:54 __init__.pyi
+-rw-r--r-- 1 mpirun mpirun 11219 May 10 23:54 dtlib.py
+-rw-r--r-- 1 mpirun mpirun  8943 May 10 23:54 dtlib.pyc
+-rw-r--r-- 1 mpirun mpirun   231 May 10 23:54 dtlib.pyi
+-rw-r--r-- 1 mpirun mpirun 18471 May 10 23:54 pkl5.py
+-rw-r--r-- 1 mpirun mpirun 27538 May 10 23:54 pkl5.pyc
+-rw-r--r-- 1 mpirun mpirun  4437 May 10 23:54 pkl5.pyi
+
+./.local/lib/python2.7/site-packages/mpi4py-3.1.6.dist-info:
+total 32
+drwxr-xr-x 2 mpirun mpirun  123 May 10 23:54 .
+drwx------ 7 mpirun mpirun  171 May 10 23:54 ..
+-rw-r--r-- 1 mpirun mpirun    4 May 10 23:54 INSTALLER
+-rw-r--r-- 1 mpirun mpirun 1427 May 10 23:54 LICENSE.rst
+-rw-r--r-- 1 mpirun mpirun 7706 May 10 23:54 METADATA
+-rw-r--r-- 1 mpirun mpirun 4680 May 10 23:54 RECORD
+-rw-r--r-- 1 mpirun mpirun    0 May 10 23:54 REQUESTED
+-rw-r--r-- 1 mpirun mpirun  105 May 10 23:54 WHEEL
+-rw-r--r-- 1 mpirun mpirun    7 May 10 23:54 top_level.txt
+
+./.local/lib/python2.7/site-packages/pkg_resources:
+total 240
+drwxr-xr-x 4 mpirun mpirun    117 May 10 23:54 .
+drwx------ 7 mpirun mpirun    171 May 10 23:54 ..
+-rw-r--r-- 1 mpirun mpirun 108349 May 10 23:54 __init__.py
+-rw-r--r-- 1 mpirun mpirun 124897 May 10 23:54 __init__.pyc
+drwxr-xr-x 3 mpirun mpirun    169 May 10 23:54 _vendor
+drwxr-xr-x 2 mpirun mpirun     45 May 10 23:54 extern
+-rw-r--r-- 1 mpirun mpirun    558 May 10 23:54 py31compat.py
+-rw-r--r-- 1 mpirun mpirun    788 May 10 23:54 py31compat.pyc
+
+./.local/lib/python2.7/site-packages/pkg_resources/_vendor:
+total 596
+drwxr-xr-x 3 mpirun mpirun    169 May 10 23:54 .
+drwxr-xr-x 4 mpirun mpirun    117 May 10 23:54 ..
+-rw-r--r-- 1 mpirun mpirun      0 May 10 23:54 __init__.py
+-rw-r--r-- 1 mpirun mpirun    168 May 10 23:54 __init__.pyc
+-rw-r--r-- 1 mpirun mpirun  24701 May 10 23:54 appdirs.py
+-rw-r--r-- 1 mpirun mpirun  23467 May 10 23:54 appdirs.pyc
+drwxr-xr-x 2 mpirun mpirun   4096 May 10 23:54 packaging
+-rw-r--r-- 1 mpirun mpirun 232055 May 10 23:54 pyparsing.py
+-rw-r--r-- 1 mpirun mpirun 243181 May 10 23:54 pyparsing.pyc
+-rw-r--r-- 1 mpirun mpirun  30098 May 10 23:54 six.py
+-rw-r--r-- 1 mpirun mpirun  33021 May 10 23:54 six.pyc
+
+./.local/lib/python2.7/site-packages/pkg_resources/_vendor/packaging:
+total 176
+drwxr-xr-x 2 mpirun mpirun  4096 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun   169 May 10 23:54 ..
+-rw-r--r-- 1 mpirun mpirun   720 May 10 23:54 __about__.py
+-rw-r--r-- 1 mpirun mpirun   807 May 10 23:54 __about__.pyc
+-rw-r--r-- 1 mpirun mpirun   513 May 10 23:54 __init__.py
+-rw-r--r-- 1 mpirun mpirun   629 May 10 23:54 __init__.pyc
+-rw-r--r-- 1 mpirun mpirun   860 May 10 23:54 _compat.py
+-rw-r--r-- 1 mpirun mpirun  1316 May 10 23:54 _compat.pyc
+-rw-r--r-- 1 mpirun mpirun  1416 May 10 23:54 _structures.py
+-rw-r--r-- 1 mpirun mpirun  4551 May 10 23:54 _structures.pyc
+-rw-r--r-- 1 mpirun mpirun  8248 May 10 23:54 markers.py
+-rw-r--r-- 1 mpirun mpirun 12592 May 10 23:54 markers.pyc
+-rw-r--r-- 1 mpirun mpirun  4355 May 10 23:54 requirements.py
+-rw-r--r-- 1 mpirun mpirun  5332 May 10 23:54 requirements.pyc
+-rw-r--r-- 1 mpirun mpirun 28025 May 10 23:54 specifiers.py
+-rw-r--r-- 1 mpirun mpirun 26605 May 10 23:54 specifiers.pyc
+-rw-r--r-- 1 mpirun mpirun   421 May 10 23:54 utils.py
+-rw-r--r-- 1 mpirun mpirun   630 May 10 23:54 utils.pyc
+-rw-r--r-- 1 mpirun mpirun 11556 May 10 23:54 version.py
+-rw-r--r-- 1 mpirun mpirun 15324 May 10 23:54 version.pyc
+
+./.local/lib/python2.7/site-packages/pkg_resources/extern:
+total 8
+drwxr-xr-x 2 mpirun mpirun   45 May 10 23:54 .
+drwxr-xr-x 4 mpirun mpirun  117 May 10 23:54 ..
+-rw-r--r-- 1 mpirun mpirun 2498 May 10 23:54 __init__.py
+-rw-r--r-- 1 mpirun mpirun 3052 May 10 23:54 __init__.pyc
+
+./.local/lib/python2.7/site-packages/setuptools:
+total 1096
+drwxr-xr-x 5 mpirun mpirun  4096 May 10 23:54 .
+drwx------ 7 mpirun mpirun   171 May 10 23:54 ..
+-rw-r--r-- 1 mpirun mpirun  7795 May 10 23:54 __init__.py
+-rw-r--r-- 1 mpirun mpirun 10543 May 10 23:54 __init__.pyc
+-rw-r--r-- 1 mpirun mpirun   218 May 10 23:54 _deprecation_warning.py
+-rw-r--r-- 1 mpirun mpirun   612 May 10 23:54 _deprecation_warning.pyc
+-rw-r--r-- 1 mpirun mpirun  2223 May 10 23:54 _imp.py
+-rw-r--r-- 1 mpirun mpirun  2518 May 10 23:54 _imp.pyc
+drwxr-xr-x 3 mpirun mpirun   177 May 10 23:54 _vendor
+-rw-r--r-- 1 mpirun mpirun  6592 May 10 23:54 archive_util.py
+-rw-r--r-- 1 mpirun mpirun  6262 May 10 23:54 archive_util.pyc
+-rw-r--r-- 1 mpirun mpirun  9887 May 10 23:54 build_meta.py
+-rw-r--r-- 1 mpirun mpirun 10123 May 10 23:54 build_meta.pyc
+-rw-r--r-- 1 mpirun mpirun 65536 May 10 23:54 cli-32.exe
+-rw-r--r-- 1 mpirun mpirun 74752 May 10 23:54 cli-64.exe
+-rw-r--r-- 1 mpirun mpirun 65536 May 10 23:54 cli.exe
+drwxr-xr-x 2 mpirun mpirun  4096 May 10 23:54 command
+-rw-r--r-- 1 mpirun mpirun 20575 May 10 23:54 config.py
+-rw-r--r-- 1 mpirun mpirun 21338 May 10 23:54 config.pyc
+-rw-r--r-- 1 mpirun mpirun   935 May 10 23:54 dep_util.py
+-rw-r--r-- 1 mpirun mpirun   995 May 10 23:54 dep_util.pyc
+-rw-r--r-- 1 mpirun mpirun  5517 May 10 23:54 depends.py
+-rw-r--r-- 1 mpirun mpirun  6550 May 10 23:54 depends.pyc
+-rw-r--r-- 1 mpirun mpirun 49877 May 10 23:54 dist.py
+-rw-r--r-- 1 mpirun mpirun 49182 May 10 23:54 dist.pyc
+-rw-r--r-- 1 mpirun mpirun   524 May 10 23:54 errors.py
+-rw-r--r-- 1 mpirun mpirun   914 May 10 23:54 errors.pyc
+-rw-r--r-- 1 mpirun mpirun  1729 May 10 23:54 extension.py
+-rw-r--r-- 1 mpirun mpirun  2508 May 10 23:54 extension.pyc
+drwxr-xr-x 2 mpirun mpirun    45 May 10 23:54 extern
+-rw-r--r-- 1 mpirun mpirun  5084 May 10 23:54 glob.py
+-rw-r--r-- 1 mpirun mpirun  4882 May 10 23:54 glob.pyc
+-rw-r--r-- 1 mpirun mpirun 65536 May 10 23:54 gui-32.exe
+-rw-r--r-- 1 mpirun mpirun 75264 May 10 23:54 gui-64.exe
+-rw-r--r-- 1 mpirun mpirun 65536 May 10 23:54 gui.exe
+-rw-r--r-- 1 mpirun mpirun  5337 May 10 23:54 installer.py
+-rw-r--r-- 1 mpirun mpirun  5178 May 10 23:54 installer.pyc
+-rw-r--r-- 1 mpirun mpirun   787 May 10 23:54 launch.py
+-rw-r--r-- 1 mpirun mpirun  1030 May 10 23:54 launch.pyc
+-rw-r--r-- 1 mpirun mpirun  2013 May 10 23:54 lib2to3_ex.py
+-rw-r--r-- 1 mpirun mpirun  3139 May 10 23:54 lib2to3_ex.pyc
+-rw-r--r-- 1 mpirun mpirun  5264 May 10 23:54 monkey.py
+-rw-r--r-- 1 mpirun mpirun  5983 May 10 23:54 monkey.pyc
+-rw-r--r-- 1 mpirun mpirun 46751 May 10 23:54 msvc.py
+-rw-r--r-- 1 mpirun mpirun 46980 May 10 23:54 msvc.pyc
+-rw-r--r-- 1 mpirun mpirun  3199 May 10 23:54 namespaces.py
+-rw-r--r-- 1 mpirun mpirun  5213 May 10 23:54 namespaces.pyc
+-rw-r--r-- 1 mpirun mpirun 40605 May 10 23:54 package_index.py
+-rw-r--r-- 1 mpirun mpirun 41635 May 10 23:54 package_index.pyc
+-rw-r--r-- 1 mpirun mpirun  1496 May 10 23:54 py27compat.py
+-rw-r--r-- 1 mpirun mpirun  2464 May 10 23:54 py27compat.pyc
+-rw-r--r-- 1 mpirun mpirun   838 May 10 23:54 py31compat.py
+-rw-r--r-- 1 mpirun mpirun  1517 May 10 23:54 py31compat.pyc
+-rw-r--r-- 1 mpirun mpirun  1330 May 10 23:54 py33compat.py
+-rw-r--r-- 1 mpirun mpirun  1831 May 10 23:54 py33compat.pyc
+-rw-r--r-- 1 mpirun mpirun   245 May 10 23:54 py34compat.py
+-rw-r--r-- 1 mpirun mpirun   576 May 10 23:54 py34compat.pyc
+-rw-r--r-- 1 mpirun mpirun 14276 May 10 23:54 sandbox.py
+-rw-r--r-- 1 mpirun mpirun 19710 May 10 23:54 sandbox.pyc
+-rw-r--r-- 1 mpirun mpirun   218 May 10 23:54 script (dev).tmpl
+-rw-r--r-- 1 mpirun mpirun   138 May 10 23:54 script.tmpl
+-rw-r--r-- 1 mpirun mpirun  2302 May 10 23:54 site-patch.py
+-rw-r--r-- 1 mpirun mpirun  1769 May 10 23:54 site-patch.pyc
+-rw-r--r-- 1 mpirun mpirun  8493 May 10 23:54 ssl_support.py
+-rw-r--r-- 1 mpirun mpirun  8817 May 10 23:54 ssl_support.pyc
+-rw-r--r-- 1 mpirun mpirun   996 May 10 23:54 unicode_utils.py
+-rw-r--r-- 1 mpirun mpirun  1532 May 10 23:54 unicode_utils.pyc
+-rw-r--r-- 1 mpirun mpirun   144 May 10 23:54 version.py
+-rw-r--r-- 1 mpirun mpirun   337 May 10 23:54 version.pyc
+-rw-r--r-- 1 mpirun mpirun  8455 May 10 23:54 wheel.py
+-rw-r--r-- 1 mpirun mpirun  9567 May 10 23:54 wheel.pyc
+-rw-r--r-- 1 mpirun mpirun   714 May 10 23:54 windows_support.py
+-rw-r--r-- 1 mpirun mpirun  1334 May 10 23:54 windows_support.pyc
+
+./.local/lib/python2.7/site-packages/setuptools/_vendor:
+total 584
+drwxr-xr-x 3 mpirun mpirun    177 May 10 23:54 .
+drwxr-xr-x 5 mpirun mpirun   4096 May 10 23:54 ..
+-rw-r--r-- 1 mpirun mpirun      0 May 10 23:54 __init__.py
+-rw-r--r-- 1 mpirun mpirun    165 May 10 23:54 __init__.pyc
+-rw-r--r-- 1 mpirun mpirun  15130 May 10 23:54 ordered_set.py
+-rw-r--r-- 1 mpirun mpirun  18673 May 10 23:54 ordered_set.pyc
+drwxr-xr-x 2 mpirun mpirun   4096 May 10 23:54 packaging
+-rw-r--r-- 1 mpirun mpirun 232055 May 10 23:54 pyparsing.py
+-rw-r--r-- 1 mpirun mpirun 241870 May 10 23:54 pyparsing.pyc
+-rw-r--r-- 1 mpirun mpirun  30098 May 10 23:54 six.py
+-rw-r--r-- 1 mpirun mpirun  32784 May 10 23:54 six.pyc
+
+./.local/lib/python2.7/site-packages/setuptools/_vendor/packaging:
+total 212
+drwxr-xr-x 2 mpirun mpirun  4096 May 10 23:54 .
+drwxr-xr-x 3 mpirun mpirun   177 May 10 23:54 ..
+-rw-r--r-- 1 mpirun mpirun   744 May 10 23:54 __about__.py
+-rw-r--r-- 1 mpirun mpirun   816 May 10 23:54 __about__.pyc
+-rw-r--r-- 1 mpirun mpirun   562 May 10 23:54 __init__.py
+-rw-r--r-- 1 mpirun mpirun   638 May 10 23:54 __init__.pyc
+-rw-r--r-- 1 mpirun mpirun   865 May 10 23:54 _compat.py
+-rw-r--r-- 1 mpirun mpirun  1304 May 10 23:54 _compat.pyc
+-rw-r--r-- 1 mpirun mpirun  1416 May 10 23:54 _structures.py
+-rw-r--r-- 1 mpirun mpirun  4488 May 10 23:54 _structures.pyc
+-rw-r--r-- 1 mpirun mpirun  8268 May 10 23:54 markers.py
+-rw-r--r-- 1 mpirun mpirun 12533 May 10 23:54 markers.pyc
+-rw-r--r-- 1 mpirun mpirun  4742 May 10 23:54 requirements.py
+-rw-r--r-- 1 mpirun mpirun  5482 May 10 23:54 requirements.pyc
+-rw-r--r-- 1 mpirun mpirun 27778 May 10 23:54 specifiers.py
+-rw-r--r-- 1 mpirun mpirun 26364 May 10 23:54 specifiers.pyc
+-rw-r--r-- 1 mpirun mpirun 12933 May 10 23:54 tags.py
+-rw-r--r-- 1 mpirun mpirun 15382 May 10 23:54 tags.pyc
+-rw-r--r-- 1 mpirun mpirun  1520 May 10 23:54 utils.py
+-rw-r--r-- 1 mpirun mpirun  2018 May 10 23:54 utils.pyc
+-rw-r--r-- 1 mpirun mpirun 11978 May 10 23:54 version.py
+-rw-r--r-- 1 mpirun mpirun 17487 May 10 23:54 version.pyc
+
+./.local/lib/python2.7/site-packages/setuptools/command:
+total 572
+drwxr-xr-x 2 mpirun mpirun  4096 May 10 23:54 .
+drwxr-xr-x 5 mpirun mpirun  4096 May 10 23:54 ..
+-rw-r--r-- 1 mpirun mpirun   568 May 10 23:54 __init__.py
+-rw-r--r-- 1 mpirun mpirun   865 May 10 23:54 __init__.pyc
+-rw-r--r-- 1 mpirun mpirun  2426 May 10 23:54 alias.py
+-rw-r--r-- 1 mpirun mpirun  3203 May 10 23:54 alias.pyc
+-rw-r--r-- 1 mpirun mpirun 18185 May 10 23:54 bdist_egg.py
+-rw-r--r-- 1 mpirun mpirun 18784 May 10 23:54 bdist_egg.pyc
+-rw-r--r-- 1 mpirun mpirun  1508 May 10 23:54 bdist_rpm.py
+-rw-r--r-- 1 mpirun mpirun  1974 May 10 23:54 bdist_rpm.pyc
+-rw-r--r-- 1 mpirun mpirun   637 May 10 23:54 bdist_wininst.py
+-rw-r--r-- 1 mpirun mpirun  1251 May 10 23:54 bdist_wininst.pyc
+-rw-r--r-- 1 mpirun mpirun  4484 May 10 23:54 build_clib.py
+-rw-r--r-- 1 mpirun mpirun  2889 May 10 23:54 build_clib.pyc
+-rw-r--r-- 1 mpirun mpirun 13023 May 10 23:54 build_ext.py
+-rw-r--r-- 1 mpirun mpirun 12438 May 10 23:54 build_ext.pyc
+-rw-r--r-- 1 mpirun mpirun  9596 May 10 23:54 build_py.py
+-rw-r--r-- 1 mpirun mpirun 11027 May 10 23:54 build_py.pyc
+-rw-r--r-- 1 mpirun mpirun  8188 May 10 23:54 develop.py
+-rw-r--r-- 1 mpirun mpirun  8179 May 10 23:54 develop.pyc
+-rw-r--r-- 1 mpirun mpirun   960 May 10 23:54 dist_info.py
+-rw-r--r-- 1 mpirun mpirun  1874 May 10 23:54 dist_info.pyc
+-rw-r--r-- 1 mpirun mpirun 87548 May 10 23:54 easy_install.py
+-rw-r--r-- 1 mpirun mpirun 82932 May 10 23:54 easy_install.pyc
+-rw-r--r-- 1 mpirun mpirun 25574 May 10 23:54 egg_info.py
+-rw-r--r-- 1 mpirun mpirun 27584 May 10 23:54 egg_info.pyc
+-rw-r--r-- 1 mpirun mpirun  4705 May 10 23:54 install.py
+-rw-r--r-- 1 mpirun mpirun  5140 May 10 23:54 install.pyc
+-rw-r--r-- 1 mpirun mpirun  2203 May 10 23:54 install_egg_info.py
+-rw-r--r-- 1 mpirun mpirun  3305 May 10 23:54 install_egg_info.pyc
+-rw-r--r-- 1 mpirun mpirun  3862 May 10 23:54 install_lib.py
+-rw-r--r-- 1 mpirun mpirun  5071 May 10 23:54 install_lib.pyc
+-rw-r--r-- 1 mpirun mpirun  2439 May 10 23:54 install_scripts.py
+-rw-r--r-- 1 mpirun mpirun  2966 May 10 23:54 install_scripts.pyc
+-rw-r--r-- 1 mpirun mpirun   628 May 10 23:54 launcher manifest.xml
+-rw-r--r-- 1 mpirun mpirun  4986 May 10 23:54 py36compat.py
+-rw-r--r-- 1 mpirun mpirun  5730 May 10 23:54 py36compat.pyc
+-rw-r--r-- 1 mpirun mpirun   468 May 10 23:54 register.py
+-rw-r--r-- 1 mpirun mpirun  1043 May 10 23:54 register.pyc
+-rw-r--r-- 1 mpirun mpirun  2164 May 10 23:54 rotate.py
+-rw-r--r-- 1 mpirun mpirun  3111 May 10 23:54 rotate.pyc
+-rw-r--r-- 1 mpirun mpirun   658 May 10 23:54 saveopts.py
+-rw-r--r-- 1 mpirun mpirun  1174 May 10 23:54 saveopts.pyc
+-rw-r--r-- 1 mpirun mpirun  8092 May 10 23:54 sdist.py
+-rw-r--r-- 1 mpirun mpirun 10254 May 10 23:54 sdist.pyc
+-rw-r--r-- 1 mpirun mpirun  5085 May 10 23:54 setopt.py
+-rw-r--r-- 1 mpirun mpirun  6200 May 10 23:54 setopt.pyc
+-rw-r--r-- 1 mpirun mpirun  9610 May 10 23:54 test.py
+-rw-r--r-- 1 mpirun mpirun 11146 May 10 23:54 test.pyc
+-rw-r--r-- 1 mpirun mpirun   462 May 10 23:54 upload.py
+-rw-r--r-- 1 mpirun mpirun  1018 May 10 23:54 upload.pyc
+-rw-r--r-- 1 mpirun mpirun  7315 May 10 23:54 upload_docs.py
+-rw-r--r-- 1 mpirun mpirun  8007 May 10 23:54 upload_docs.pyc
+
+./.local/lib/python2.7/site-packages/setuptools/extern:
+total 12
+drwxr-xr-x 2 mpirun mpirun   45 May 10 23:54 .
+drwxr-xr-x 5 mpirun mpirun 4096 May 10 23:54 ..
+-rw-r--r-- 1 mpirun mpirun 2514 May 10 23:54 __init__.py
+-rw-r--r-- 1 mpirun mpirun 3050 May 10 23:54 __init__.pyc
+
+./.local/lib/python2.7/site-packages/setuptools-44.1.1.dist-info:
+total 48
+drwxr-xr-x 2 mpirun mpirun   187 May 10 23:54 .
+drwx------ 7 mpirun mpirun   171 May 10 23:54 ..
+-rw-r--r-- 1 mpirun mpirun     4 May 10 23:54 INSTALLER
+-rw-r--r-- 1 mpirun mpirun  1078 May 10 23:54 LICENSE
+-rw-r--r-- 1 mpirun mpirun  3704 May 10 23:54 METADATA
+-rw-r--r-- 1 mpirun mpirun 12510 May 10 23:54 RECORD
+-rw-r--r-- 1 mpirun mpirun     0 May 10 23:54 REQUESTED
+-rw-r--r-- 1 mpirun mpirun   110 May 10 23:54 WHEEL
+-rw-r--r-- 1 mpirun mpirun   239 May 10 23:54 dependency_links.txt
+-rw-r--r-- 1 mpirun mpirun  3206 May 10 23:54 entry_points.txt
+-rw-r--r-- 1 mpirun mpirun    38 May 10 23:54 top_level.txt
+-rw-r--r-- 1 mpirun mpirun     1 May 10 23:54 zip-safe
+
+./.local/share:
+total 0
+drwx------ 3 mpirun mpirun 18 May 12 00:47 .
+drwx------ 1 mpirun mpirun 19 May 12 00:47 ..
+drwx------ 2 mpirun mpirun  6 May 12 00:47 nano
+
+./.local/share/nano:
+total 0
+drwx------ 2 mpirun mpirun  6 May 12 00:47 .
+drwx------ 3 mpirun mpirun 18 May 12 00:47 ..
+
+./.openmpi:
+total 4
+drwxr-xr-x 1 mpirun mpirun 29 May 10 23:54 .
+drwxr-xr-x 1 mpirun mpirun 75 May 12 02:09 ..
+-rw-rw-r-- 1 mpirun mpirun 61 May 10 23:48 mca-params.conf
+
+./.ssh:
+total 16
+drwxr-xr-x 1 mpirun mpirun   75 May 10 23:54 .
+drwxr-xr-x 1 mpirun mpirun   75 May 12 02:09 ..
+-rw------- 1 mpirun mpirun  396 May 10 23:48 authorized_keys
+-rw------- 1 mpirun mpirun   25 May 10 23:48 config
+-rw------- 1 mpirun mpirun 1675 May 10 23:48 id_rsa
+-rw------- 1 mpirun mpirun  396 May 10 23:48 id_rsa.pub

@@ -1,0 +1,101 @@
+    1  cd /compartido/
+    2  ls
+    3  cd /m
+    4  cd mpi/
+    5  ls
+    6  nano a.out 
+    7  time mpirun -np 2 ./mpi-mm
+    8  nano mpi-mm.c
+    9  time mpirun -np 2 ./mpi-mm 900 900
+   10  time mpirun -np 2 ./mpi-mm 3 3
+   11  time mpirun -np 2 ./mpi-mm 900 900
+   12  time mpirun -np 36 ./mpi-mm 900 900
+   13  time mpirun -np 36 ./mpi-mm 10 10
+   14  time mpirun -np 36 ./mpi-mm 50 50
+   15  nano mpi-mm.c
+   16  time mpirun -np 2 ./mpi-mm
+   17  ls
+   18  rm core.111
+   19  rm core.113
+   20  rm core.1203
+   21  rm core.142
+   22  rm core.35
+   23  ls
+   24  rm core.100 core.101 core.102 
+   25  ls
+   26  rm core.1120 core.1180 core.1212 core.34 core.60 core.68 core.71 core.74 core.77 core.80 core.83 core.86 core.89 core.92 core.95 core.98
+   27  ls
+   28  rm core.112 core.1179 a.out core.1211 core.336 core.43 core.67 core.73 core.76 core.79 core.82 core.85 core.88 core.91 core.94 c
+   29  ls
+   30  rm core.1119 core.1204 core.42 core.69 core.72 core.78 core.84 core.90 core.96 core.117 core.335 core.61 core.70 core.75 core.81 core.87 core.93 core.99
+   31  ls
+   32  exit
+   33  cd /compartido/
+   34  ls
+   35  cd mpi/
+   36  ls
+   37  time mpirun -np 2 ./mpi-mm
+   38  nano mpi-mm.c
+   39  time mpirun -np 2 ./mpi-mm}
+   40  time mpirun -np 2 ./mpi-mm
+   41  ls
+   42  time mpirun -np 2 ./mpi-mm
+   43  time mpirun -np 2 ./mpi-mm 900
+   44  time mpirun -np 2 ./mpi-mm 3
+   45  nano mpi-mm.c 
+   46  mpicc mpi-mm.c -o mpi-mm
+   47  time mpirun -np 2 ./mpi-mm 900
+   48  time mpirun -np 2 ./mpi-mm 4000
+   49  nano mpi-matrices.c
+   50  mpicc mpi-matrices.c mpi-matrices
+   51  mpicc mpi-matrices.c -o  mpi-matrices
+   52  time mpirun -np 2 ./mpi-mm 900
+   53  time mpirun -np 2 ./mpi-matrices
+   54  time mpirun -np 2 ./mpi-matrices 3
+   55  rm mpi-matrices.c mpi-matrices
+   56  ls
+   57  nano mpi-matrices.c
+   58  mpicc mpi-matrices.c -o mpi-matrices.c 
+   59  mpicc mpi-matrices.c -o mpi-matrices
+   60  time mpirun -np 2 ./mpi-matrices 900
+   61  rm mpi-matrices.c mpi-matrices
+   62  nano mpi-matrices.c 
+   63  mpicc mpi-matrices.c -o mpi-matrices
+   64  time mpirun -np 2 ./mpi-matrices 900
+   65  time mpirun -np 2 ./mpi-matrices 3
+   66  time mpirun -np 2 ./mpi-matrices 10
+   67  time mpirun -np 2 ./mpi-matrices 900
+   68  rm mpi-mm mpi-matrices mpi-matrices.c mpi-matrices.c
+   69  rm mpi-mm.c 
+   70  ls
+   71  nano mpi-mm.c
+   72  mpicc mpi-mm.c mpi-mm
+   73  mpicc mpi-mm.c -o  mpi-mm
+   74  time mpirun -np 2 ./mpi-mm 10
+   75  time mpirun -np 2 ./mpi-mm 900
+   76  time mpirun -np 3 ./mpi-mm 900
+   77  time mpirun -np 4 ./mpi-mm 900
+   78  time mpirun -np 8 ./mpi-mm 900
+   79  nano mpi-mm.c
+   80  mpicc mpi-mm.c -o  mpi-mm
+   81  time mpirun -np 2 ./mpi-mm 900
+   82  nano mpi-mm.c
+   83  mpicc mpi-mm.c -o  mpi-mm
+   84  time mpirun -np 2 ./mpi-mm 900
+   85  time mpirun -np 2 ./mpi-mm 10
+   86  time mpirun -np 2 ./mpi-mm 200
+   87  time mpirun -np 2 ./mpi-mm 900
+   88  time mpirun -np 3 ./mpi-mm 900
+   89  time mpirun -np 4 ./mpi-mm 900
+   90  time mpirun -np 8 ./mpi-mm 900
+   91  time mpirun -np 16 ./mpi-mm 900
+   92  time mpirun -np 32 ./mpi-mm 900
+   93  time mpirun -np 2 ./mpi-mm 1000
+   94  time mpirun -np 3 ./mpi-mm 1000
+   95  time mpirun -np 4 ./mpi-mm 1000
+   96  time mpirun -np 8 ./mpi-mm 1000
+   97  time mpirun -np 16 ./mpi-mm 1000
+   98  time mpirun -np 32 ./mpi-mm 1000
+   99  time mpirun -np 2 ./mpi-mm 4000
+  100  exit
+  101  ls -laR > archivo1.txt
